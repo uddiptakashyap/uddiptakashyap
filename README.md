@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Uddipta Kashyap
 
-### Game Developer | AI & ML Enthusiast | Unreal Engine | Backend & AR/VR
+### Game Developer | AI & ML Enthusiast | Unreal Engine | 5x Hackathon Winner
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uddiptakashyap&label=Profile views&color=0e75b6&style=flat" alt="uddiptakashyap" /> </p>
 
